@@ -2,8 +2,7 @@ using System;
 //1. Написать метод, возвращающий минимальное из трёх чисел.
 
 
-static void ex1
-{
+
 Console.WriteLine ("Впиши три числа: ");
 int first = int.Parse (Console.ReadLine());
 int second = int.Parse (Console.ReadLine());
@@ -17,4 +16,3 @@ int third = int.Parse (Console.ReadLine());
    
     else Console.WriteLine ($"Наибольшее число: {third}");
 
-}
