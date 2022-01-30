@@ -1,8 +1,6 @@
 using System;
 //1. Написать метод, возвращающий минимальное из трёх чисел.
 
-
-
 Console.WriteLine ("Впиши три числа: ");
 int first = int.Parse (Console.ReadLine());
 int second = int.Parse (Console.ReadLine());
