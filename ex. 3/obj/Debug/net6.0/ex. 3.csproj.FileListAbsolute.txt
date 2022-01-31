@@ -3,3 +3,13 @@ C:\Users\The Sun\Desktop\Homework\Homework_2\ex. 3\obj\Debug\net6.0\ex. 3.Genera
 C:\Users\The Sun\Desktop\Homework\Homework_2\ex. 3\obj\Debug\net6.0\ex. 3.AssemblyInfoInputs.cache
 C:\Users\The Sun\Desktop\Homework\Homework_2\ex. 3\obj\Debug\net6.0\ex. 3.AssemblyInfo.cs
 C:\Users\The Sun\Desktop\Homework\Homework_2\ex. 3\obj\Debug\net6.0\ex. 3.csproj.CoreCompileInputs.cache
+C:\Users\The Sun\Desktop\Homework\Homework_2\ex. 3\bin\Debug\net6.0\ex. 3.exe
+C:\Users\The Sun\Desktop\Homework\Homework_2\ex. 3\bin\Debug\net6.0\ex. 3.deps.json
+C:\Users\The Sun\Desktop\Homework\Homework_2\ex. 3\bin\Debug\net6.0\ex. 3.runtimeconfig.json
+C:\Users\The Sun\Desktop\Homework\Homework_2\ex. 3\bin\Debug\net6.0\ex. 3.dll
+C:\Users\The Sun\Desktop\Homework\Homework_2\ex. 3\bin\Debug\net6.0\ref\ex. 3.dll
+C:\Users\The Sun\Desktop\Homework\Homework_2\ex. 3\bin\Debug\net6.0\ex. 3.pdb
+C:\Users\The Sun\Desktop\Homework\Homework_2\ex. 3\obj\Debug\net6.0\ex. 3.dll
+C:\Users\The Sun\Desktop\Homework\Homework_2\ex. 3\obj\Debug\net6.0\ref\ex. 3.dll
+C:\Users\The Sun\Desktop\Homework\Homework_2\ex. 3\obj\Debug\net6.0\ex. 3.pdb
+C:\Users\The Sun\Desktop\Homework\Homework_2\ex. 3\obj\Debug\net6.0\ex. 3.genruntimeconfig.cache
